@@ -1,14 +1,9 @@
 ## Predicting heart disease
 
+Please see the accompanying essay [here](https://inhomogeneo.us/essays/heart_disease.html)
+
 We use the heart disease data set from 
 
-https://archive.ics.uci.edu/ml/datasets/Heart+Disease
+[the UCI Machine Learning repository](https://archive.ics.uci.edu/ml/datasets/Heart+Disease)
 
-Several analytic techniques will be employed but first, a basic linear model
-
-## Basic functions only!
-
-The Right way to do this is to use something like scikit-learn. This project
-deliberately avoids that to emphasize the underlying mathematics & procedural
-steps sophisticated libraries automatically perform. It's an educational 
-exercise.
+Several data analysis techniques will be employed across this series but first, a basic linear model
